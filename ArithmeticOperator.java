@@ -3,8 +3,8 @@ package operators;
 public class ArithmeticOperator {
 	public static void main(String[] args)
 	{
-		int number1=20;
-		int number2=15;
+		int number1=40;
+		int number2=20;
 		int result1=number1+number2;
 		int result2=number1-number2;
 		int result3=number1*number2;
